@@ -1,7 +1,7 @@
 
 > Webrtc服务器搭建后台项目地址
 >
-> java项目:https://github.com/androidtencent/WebRtcJavaWeb
+> java项目:https://github.com/xiangjiana/WebRtcJavaWeb
 >
 > NodeJs项目 : https://github.com/ddssingsong/webrtc_server
 
